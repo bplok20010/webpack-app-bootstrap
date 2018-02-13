@@ -2,7 +2,7 @@
 
 ## 初始化
 
-`npm run init`
+`npm run setup`
 
 ## 测试打包
 
