@@ -47,6 +47,7 @@ const devDependencies = {
 		'babel-plugin-transform-object-rest-spread',
 		'babel-plugin-external-helpers',
 		'babel-plugin-syntax-dynamic-import',
+		'babel-plugin-transform-class-properties',
 	],
 	polyfill: [
 		'promise-polyfill', //maybe
